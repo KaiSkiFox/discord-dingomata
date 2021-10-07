@@ -198,7 +198,7 @@ responses:
 # secret responses
 triggers: [ banana husky ]
 responses:
-- "Our favorite, cute and very athletic husky! To our amazing husky friend that's full of love! Athlete!"
+- "Our favorite, cute, protective and very athletic husky! To our amazing husky friend that's full of love! Athlete!"
 ---
 triggers: [ shooting star ]
 responses:
@@ -212,9 +212,9 @@ triggers: [ gentleman fox ]
 responses:
 - Our residential gentleman fox, very smart and creative! The our friend, one and only, Snazzy! PS:Thanks for creating dingomata!
 ---
-triggers: [ candy wolf ]
+triggers: [ potato wolf ]
 responses:
-- "AWOOO! Our favorite, one and only, rare find werewolf. To our werewolf friend, LycanMike! \"Salutations and hello there!\" ||OH WOOF! GOSH DARNIT ALL THE HECK.||"
+- "AWOOO! Our favorite, one and only, rare find werewolf. To our wholesome werewolf friend, LycanMike! \"Salutations and hello there!\" ||OH WOOF! GOSH DARNIT ALL THE HECK.||"
 ---
 triggers: [ tail king ]
 responses:
@@ -272,7 +272,7 @@ triggers: [ smart bear ]
 responses:
 - Smart and wholesome bear, lovingly and friendly. To our amazing friendly bear, Koda!
 ---
-triggers: [ tech husky ]
+triggers: [ techi husky ]
 responses:
 - He is a cat? He is a husky? What is he? If he is a cat when why his pfp is a husky? If he is a husky then why is his name cat? `ERROR LOGICAL MEMORY INSUFFICIENT`. To our amazingly computer techi and friendo husky, Neko!
 ---
@@ -330,4 +330,8 @@ responses:
 ---
 triggers: [ shadow wolf ]
 responses:
-- Hey.. Have you ever wonder where the shadow realm is...? A gentle wolf who is very gentle! To our amazing shadow friend, Shadow!
+- Hey.. Have you ever wonder where the shadow realm is...? A gentle wolf who is very caring! To our amazing shadow friend, Shadow!
+---
+triggers: [ professor panther ]
+responses:
+- Very gentle hearted and caring, a sweet panther who cares about others. A gentle, amazing and wonderful friend, Finn!
