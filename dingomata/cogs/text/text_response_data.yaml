@@ -49,10 +49,10 @@ responses:
 - At least someone appreciate my sense of humor.
 - I do have assortment of jokes in my database.
 ---
-triggers: [ friend?, friends? ]
+triggers: [ 'friend\?', 'friends\?' ]
 responses:
 - 'Yes'
-- You are my friends now! We are haveing soft tacos later!
+- You are my friends now! We are having soft tacos later!
 - YAY!
 - 'FRIENDS!'
 - "YES! <:DingHappy:501529444910104588>"
